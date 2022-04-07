@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+![trophy](https://github-profile-trophy.vercel.app/?username=corbin419)
 
 
 <!--
