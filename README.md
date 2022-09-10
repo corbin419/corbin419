@@ -1,9 +1,9 @@
 ### Hi I am Corbin Welcome to my github 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corbin419&theme=vue-dark))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corbin419&theme=vue-dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corbin419&theme=vue-dark))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corbin419&theme=vue-dark)
 
 
 <!--
