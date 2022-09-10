@@ -2,7 +2,7 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=corbin419)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corbin419=dark&show_icons=true)
 
 <!--
 **corbin419/corbin419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
