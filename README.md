@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corbin419)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corbin419)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corbin419&theme=vue-dark))
 
 
 <!--
